@@ -7,8 +7,7 @@ Library Management System final project for CSE 3330 (Database Systems &amp; Fil
 - Handle borrower details and checkouts with return dates.
 
 ## ER Diagram
-<img src="./ERDiagram.jpeg" alt="ER Diagram" width="400"/>
+<img src="./ERDiagram.jpeg" alt="ER Diagram" width="480"/>
 
 ## Relational Database Schema
-<img src="./RelationalDbSchema.jpeg" alt="Relational Database Schema" width="400"/>
-This diagram shows the relational database schema mapped from the ER diagram, detailing the tables, primary keys, and relationships between entities.*
+<img src="./RelationalDbSchema.jpeg" alt="Relational Database Schema" width="480"/>
