@@ -1,5 +1,5 @@
 # LibraryManagementSystem
-Library Management System final project for CSE 3330 (Database Systems &amp; File Structures) class.
+This Library Management System is the final project for The University of Texas at Arlington's CSE 3330 (Database Systems &amp; File Structures) class.
 
 ## Features
 - Track books, authors, publishers, and library branches.
