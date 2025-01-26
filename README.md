@@ -77,7 +77,7 @@ This project was developed as the final project for CSE 3330. While I led the de
 
 ## Contact
 If you have any questions or feedback about this project, feel free to reach out:
-- **Email**: [shubhamcweb@gmail.com](mailto:shubhamcweb@gmail.com)
-- **LinkedIn**: [linkedin.com/in/shubhamcweb](https://linkedin.com/in/shubhamctech)
+- **Email**: [shubhamc4tech@gmail.com](mailto:shubhamc4tech@gmail.com)
+- **LinkedIn**: [linkedin.com/in/shubhamctech](https://linkedin.com/in/shubhamctech)
 
 #### Thanks for visiting my project!
